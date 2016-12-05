@@ -1,2 +1,3 @@
 first text
 one:a new line
+two: some other text
